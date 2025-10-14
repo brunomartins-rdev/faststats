@@ -1,6 +1,3 @@
-library(testthat)
-library(faststats)
-
 set.seed(123)
 
 test_that("fs_cov_wt matches stats::cov.wt for unweighted unbiased", {

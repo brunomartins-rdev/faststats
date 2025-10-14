@@ -1,9 +1,9 @@
 Package: faststats
-Title: What the Package Does (One Line, Title Case)
+Title: {stats} library, with an Rcpp backend.
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Bruno", "Martins", , "bruno.silva.martins@hotmail.com", role = c("aut", "cre"))
+Description: Applying some functions of the {stats} library, but with an Rcpp backend. This is supposed to be a one for one translation of functions from that module.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
