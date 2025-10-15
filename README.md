@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of faststats is to bea faster implementation (C++ based) of the base R {stats} library.
+The goal of faststats is to be a faster implementation (C++ based) of the base R {stats} library.
 
 ## Installation
 
@@ -22,4 +22,3 @@ This is a basic example which shows you how to solve a common problem:
 library(faststats)
 ## basic example code
 ```
-
